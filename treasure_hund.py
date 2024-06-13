@@ -9,3 +9,4 @@ if strt == 2:
     print("THE GAME IS STARTING>>>")
     q1 = input("RIDDLE 1: What has to be broken before you can use it?")
     if q1 == "egg"
+        
