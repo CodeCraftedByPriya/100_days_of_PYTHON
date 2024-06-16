@@ -1,6 +1,6 @@
 print("The Love Calculator is calculating your score...")
-name1 = input().upper() # What is your name?
-name2 = input().upper() # What is their name?
+name1 = input("What is your name?").upper()
+name2 = input("What is their name?").upper()
 name = name1+name2
 tsum = 0
 lsum = 0
